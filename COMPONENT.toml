@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-kernel-gnu"
-description = "GNU Mach and Hurd translator server integration"
+description = "SigmaOS Kernel component - Rust implementation"
 version = "0.1.0"
 tier = 1
 
